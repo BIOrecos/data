@@ -1,0 +1,4 @@
+timestamp,test_id,contexte,examens,n_top_bilans,top_bilans,n_sugg_ajout,n_sugg_retrait,has_alert,has_links,loincs,raw_response
+2025-08-20 14:32:00,T001,Diabète type 2,Glycémie|HbA1c|Créatinine,2,Bilan diabète:0.87|Fonction rénale:0.65,1,0,true,https://www.has-sante.fr/jcc,14771-0|2160-0,"{""result"":""OK"",""detail"":""Simulation A""}"
+2025-08-20 15:10:00,T002,Check-up annuel,NFS|Bilan lipidique,1,Bilan de routine:0.72,0,1,false,,57021-8|24331-1,"{""result"":""OK"",""detail"":""Simulation B""}"
+2025-08-21 09:05:00,T003,Hypertension,Créatinine|Ionogramme sanguin,2,Fonction rénale:0.81|Bilan cardio:0.59,0,0,true,https://www.has-sante.fr/hypertension,2160-0|2951-2,"{""result"":""OK"",""detail"":""Simulation C""}"
